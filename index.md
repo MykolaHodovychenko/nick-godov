@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+{:.mycenter}
+# Материалы курса "Кроссплатформенное программирование" 2018 учебный год
+<br />
 
-You can use the [editor on GitHub](https://github.com/MykolaHodovychenko/spring/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Лекционный материал
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Доп. лекция 1 "JavaFX. Использование FXML и SceneBuilder. Класс контроллера"](https://goo.gl/udG3Ap)
+* [Доп. лекция 2 "Перечисления. Паттерн MVC, Facade, Observer"](https://goo.gl/e5cZhp)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Список лабораторных работ
+* [Лабораторная работа №1 "Знакомство с базовым синтаксисом и операторами Java"](https://goo.gl/zuzDMU)
+* [Лабораторная работа №2 "Базовые понятия класса и объекта"](https://goo.gl/dTQYB8)
+* [Лабораторная работа №3 "Инкапсуляция"](https://goo.gl/jp4PpA)
+* [Лабораторная работа №4 "Механизм наследования"](https://goo.gl/ggdbWN)
+* [Лабораторная работа №5 "Полиморфизм(позднее связывание). Восходящее и нисходящее преобразование"](https://goo.gl/f4ogr1)
+* [Лабораторная работа №6 "Абстрактные классы и интерфейсы. Механизм обратного вызова"](https://goo.gl/oEWXe3)
+* [Лабораторная работа №7 "Анонимные классы, объекты и методы. Аргументы переменной длины. Принцип абстракции. Дополнительные принципы ООП"](https://goo.gl/L2AUJy)
+* [Лабораторная работа №8 "Обобщенные типы. Автоупаковка"](https://goo.gl/JSd9eU)
+* [Лабораторная работа №9 "Коллекции объектов"](https://goo.gl/e7NEvt)
+* [Лабораторная работа №10 "Паттерн Итератор. Компараторы. Stream API"](https://goo.gl/vqwsJV)
+* [Лабораторная работа №11 "Исключения в Java. Обработка исключений"](https://goo.gl/8NsthX)
+* [Лабораторная работа №12 "Разработка GUI. Принцип работы GUI. Библиотека JavaFX"](https://goo.gl/cLzBnG)
 
-```markdown
-Syntax highlighted code block
+## [Сводный журнал 2 курса](https://docs.google.com/spreadsheets/d/1YEzxEtw0ALoCT3ZSDqtHJHYI9fRXYx2SoJRZXcbCL24/edit?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
+## Дополнительные материалы:
+* ### [Я хочу дополнительно развиваться как программист, что мне делать?](info.md) 
+* ### [Рекомендуемая литература](books.md)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MykolaHodovychenko/spring/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<style>
+.mycenter {
+    text-align:center;
+}
+</style>
